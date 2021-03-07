@@ -1,0 +1,12 @@
+
+# Rodar aplicação
+flutter run
+
+# hot reload
+aperta r no terminal
+
+# hot reload completo
+aperta R no terminal
+
+# gerar apk release
+flutter build apk --split-per-abi
